@@ -61,7 +61,7 @@ ffmpeg:SKP
 fftw:SKP
 fluidsynth:SKP
 freecell-solver:SKP
-freetype:SKP
+freetype:ADD
 frei0r-plugins:SKP
 fribidi:SKP
 fuse:SKP
@@ -94,7 +94,7 @@ gnu-efi:SKP
 gobject-introspection:SKP
 grantlee:SKP
 graphene:SKP
-graphite2:SKP
+graphite2:ADD
 gsettings-desktop-schemas:SKP
 gsl:SKP
 gst-plugins-bad-free:SKP
@@ -111,12 +111,12 @@ gtkmm3:SKP
 gtksourceview3:SKP
 gtkspell:SKP
 gvfs:SKP
-harfbuzz:SKP
+harfbuzz:ADD
 hicolor-icon-theme:SKP
 hunspell:SKP
 hyphen:SKP
 icon-naming-utils:SKP
-icu4c:SKP
+icu4c:ADD
 id3lib:SKP
 imagemagick:SKP
 isl:SKP
@@ -289,6 +289,7 @@ polkit-gnome:SKP
 polkit-qt-1:SKP
 poppler:SKP
 poppler-data:SKP
+popt:SKP
 pSKP:SKP
 pulseaudio:SKP
 pycairo:SKP

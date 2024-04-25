@@ -24,7 +24,7 @@ ed:ADD
 efibootmgr:ADD
 efivar:ADD
 elilo:ADD
-elogind:SKP
+elogind:ADD
 elvis:SKP
 etc:ADD
 eudev:ADD
@@ -51,7 +51,7 @@ inih:SKP
 inotify-tools:SKP
 jfsutils:SKP
 kbd:SKP
-kernel-firmware:SKP
+kernel-firmware:ADD
 kernel-generic:ADD
 kernel-huge:ADD
 kernel-modules:ADD
