@@ -103,12 +103,12 @@ nmap:SKP
 nn:SKP
 npth:SKP
 nss-pam-ldapd:SKP
-ntp:SKP
+ntp:ADD
 obexftp:SKP
 openldap:SKP
 openobex:SKP
 openresolv:SKP
-openssh:SKP
+openssh:ADD
 openssl:ADD
 openvpn:SKP
 p11-kit:SKP
@@ -125,7 +125,7 @@ pssh:SKP
 rdist:SKP
 rp-pppoe:SKP
 rpcbind:SKP
-rsync:SKP
+rsync:ADD
 s-nail:SKP
 samba:SKP
 slrn:SKP
@@ -135,10 +135,10 @@ sshfs:SKP
 stunnel:SKP
 tcp_wrappers:SKP
 tcpdump:SKP
-telnet:SKP
+telnet:ADD
 tftp-hpa:SKP
 tin:SKP
-traceroute:SKP
+traceroute:ADD
 ulogd:SKP
 uucp:SKP
 vlan:SKP

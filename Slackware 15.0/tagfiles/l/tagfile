@@ -158,8 +158,8 @@ libdiscid:SKP
 libdmtx:SKP
 libdvdnav:SKP
 libdvdread:SKP
-libedit:SKP
-libevent:SKP
+libedit:ADD
+libevent:ADD
 libexif:SKP
 libfakekey:SKP
 libffi:SKP
@@ -191,7 +191,7 @@ libnice:SKP
 libnih:SKP
 libnjb:SKP
 libnl:SKP
-libnl3:SKP
+libnl3:ADD
 libnotify:SKP
 libnsl:SKP
 libnss_nis:SKP
@@ -252,7 +252,7 @@ libyaml:SKP
 libzip:SKP
 lmdb:SKP
 loudmouth:SKP
-lz4:SKP
+lz4:ADD
 lzo:SKP
 media-player-info:SKP
 mhash:SKP
@@ -373,6 +373,6 @@ vte:SKP
 wavpack:SKP
 woff2:SKP
 xapian-core:SKP
-xxHash:SKP
+xxHash:ADD
 zlib:SKP
 zstd:SKP
