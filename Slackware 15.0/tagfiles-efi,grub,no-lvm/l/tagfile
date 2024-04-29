@@ -81,8 +81,8 @@ glade:SKP
 glib:SKP
 glib-networking:SKP
 glib2:SKP
-glibc:SKP
-glibc-i18n:SKP
+glibc:ADD
+glibc-i18n:ADD
 glibc-profile:SKP
 glibmm:SKP
 gmime:SKP
